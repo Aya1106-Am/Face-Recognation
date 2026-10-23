@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+av
+opencv-python
+numpy
+Pillow
+face_recognition
+setuptools<81
